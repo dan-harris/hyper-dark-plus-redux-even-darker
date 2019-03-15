@@ -40,7 +40,7 @@ const colors = {
 };
 
 const themeStyles = /*css*/`
-  /* Hide bottom border if tab is active, make bg lighter */
+  /* hide bottom border if tab is active, make bg lighter */
   .tab_tab {
     color: ${FOREGROUND_COLOR} !important;
     border-left: 0 none;
@@ -85,7 +85,7 @@ const themeStyles = /*css*/`
   }
 `;
 
-// Apply theme
+// apply theme
 exports.decorateConfig = (config) => {
   const decoratedConfig = Object.assign({}, config, {
     backgroundColor: BACKGROUND_COLOR,

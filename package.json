@@ -4,7 +4,8 @@
   "description": "hyper theme for dark+ redux even darker",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "git-cz"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,14 @@
   "bugs": {
     "url": "https://github.com/dan-harris/hyper-dark-plus-redux-even-darker/issues"
   },
-  "homepage": "https://github.com/dan-harris/hyper-dark-plus-redux-even-darker#readme"
+  "homepage": "https://github.com/dan-harris/hyper-dark-plus-redux-even-darker#readme",
+  "devDependencies": {
+    "commitizen": "^3.0.7",
+    "cz-conventional-changelog": "^2.1.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-conventional-changelog"
+    }
+  }
 }
