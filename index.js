@@ -6,7 +6,7 @@ const BORDER_COLOR = '#1e1e1e';
 // colors
 const RED = '#f44747';
 const GREEN = '#6A9955';
-const YELLOW = '#DCDCAA';
+const YELLOW = '#cd9731';
 const BLUE = '#569cd6';
 const PINK = '#b267e6';
 const CYAN = '#9cdcfe';
