@@ -56,6 +56,10 @@ POWERLEVEL9K_NODE_VERSION_FOREGROUND='059'
 POWERLEVEL9K_NODE_VERSION_BACKGROUND='237'
 ```
 
+# Kudos
+
+🙌 thanks to [philippbosch](https://github.com/philippbosch/hyper-dark-macos) for his hyper-dark-macos theme (which I essentially used as a boilerplate for theming)
+
 # Author
 
 🤔 created by Dan Harris
