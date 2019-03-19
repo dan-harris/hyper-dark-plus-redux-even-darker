@@ -1,6 +1,6 @@
 ![logo](logo-large.png)
 
-A hyper theme to match the vscode dark+ Redux: Even Darker theme; for those night-owls 🦉 and super-haxxors 👩‍💻 that live in a dark theme world.
+A hyper theme to match the [vscode dark+ Redux: Even Darker](https://marketplace.visualstudio.com/items?itemName=danharris.dark-plus-redux-even-darker) theme; for those night-owls 🦉 and super-haxxors 👩‍💻 that live in a dark theme world.
 
 # Darken all the things (in hyper) 😎
 
@@ -11,6 +11,8 @@ A hyper theme to match the vscode dark+ Redux: Even Darker theme; for those nigh
 😍 Designed to compliment those cool-kid programming fonts - like [Dank Mono](https://dank.sh/) or [Fira Code](https://github.com/tonsky/FiraCode)
 
 # Example
+
+![](hyper-example.png)
 
 # Extra Settings
 
