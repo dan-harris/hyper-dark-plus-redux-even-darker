@@ -1,0 +1,37 @@
+{
+  "name": "hyper-dark-plus-redux-even-darker",
+  "version": "0.0.0",
+  "description": "hyper theme for dark+ redux even darker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "git-cz",
+    "release": "np"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan-harris/hyper-dark-plus-redux-even-darker.git"
+  },
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "vscode",
+    "dark-theme"
+  ],
+  "author": "dan-harris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dan-harris/hyper-dark-plus-redux-even-darker/issues"
+  },
+  "homepage": "https://github.com/dan-harris/hyper-dark-plus-redux-even-darker#readme",
+  "devDependencies": {
+    "commitizen": "^3.0.7",
+    "cz-conventional-changelog": "^2.1.0",
+    "np": "*"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-conventional-changelog"
+    }
+  }
+}
