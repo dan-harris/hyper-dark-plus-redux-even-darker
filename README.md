@@ -10,9 +10,29 @@ A hyper theme to match the [vscode dark+ Redux: Even Darker](https://marketplace
 
 😍 Designed to compliment those cool-kid programming fonts - like [Dank Mono](https://dank.sh/) or [Fira Code](https://github.com/tonsky/FiraCode)
 
-# Example
+# Demo
 
 ![](hyper-example.png)
+
+# Setup
+
+To add the theme to hyper, either update the `.hyper.js` settings;
+
+```
+  // a list of plugins to fetch and install from npm
+  plugins: [
+    ...
+    "hyper-dark-plus-redux-even-darker"
+  ],
+```
+
+or install via the `hyper-cli`
+
+```
+$ hyper i hyper-dark-plus-redux-even-darker
+```
+
+...hunky dory 👍
 
 # Extra Settings
 
